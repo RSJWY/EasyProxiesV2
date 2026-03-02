@@ -5,6 +5,15 @@ EasyProxiesV2 是一个轻量级、高性能的代理池与订阅管理工具，
 
 > 二开声明：本项目基于 [jasonwong1991/easy_proxies](https://github.com/jasonwong1991/easy_proxies) 二次开发，V2 版本重点重构了前端与工程化流程。
 
+## ❤️ 赞助木木
+
+木木是独立开发者 / 开源爱好者，长期投入开源项目维护与迭代。
+如果 EasyProxiesV2 对你有帮助，或者你认可我的工作，欢迎请我喝杯咖啡。你的支持是我持续创造的动力源泉 ⚡
+
+- [赞助地址](https://mumuverse.space:1588/)
+
+---
+
 ## ✨ 核心特性
 
 - 现代化 Web UI（React + Vite + Tailwind + DaisyUI）
